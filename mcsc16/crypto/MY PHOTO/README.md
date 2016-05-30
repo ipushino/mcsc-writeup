@@ -13,4 +13,4 @@
 
 # Other write-ups and resources
 
-(TODO)
+http://ipushino.blogspot.com/2016/05/mcsc-ctf-2016-my-photo.html
