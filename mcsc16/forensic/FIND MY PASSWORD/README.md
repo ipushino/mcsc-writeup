@@ -20,4 +20,4 @@ the dump is in the folder  foreinsic 1
 
 # Other write-ups and resources
 
-(TODO)
+http://ipushino.blogspot.com/2016/05/mcsc2016-forensics-find-my-password.html
